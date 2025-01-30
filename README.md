@@ -27,6 +27,8 @@ The project uses an **ensemble learning approach** with the following steps:
 
 ## Results
    The final model achieved the following results:
-   ###Accuracy: 99.88%
-   ###Confusion Matrix:
+   **Accuracy**: 99.88%
+   
+   **Confusion Matrix**:
+   
    ![image](https://github.com/user-attachments/assets/be3a8213-a2e4-4b9d-ae98-ba5ca5c0fb57)
